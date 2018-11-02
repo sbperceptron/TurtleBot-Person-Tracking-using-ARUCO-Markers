@@ -10,4 +10,4 @@ follower.cpp
 2. The pose information is used to give velocity commands to the wheels of turtle-bot to adjust its position relative to the person it is tracking.
 Tracking Persons Using ARUCO markers
 
-
+[!["ARUCO MARKER POSE"](https://github.com/sbperceptron/Person-Tracking-using-ARUCO-Markers/blob/master/aruco_marker_pose.png)]
